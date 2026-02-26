@@ -12,7 +12,7 @@ import About from './components/About/About';
 import Projects from "./components/Projects/Projects";
 import ProjectDetails from "./components/ProjectDetails/ProjectDetails";
 import Contact from './components/Contact/Contact';
-import Resume from "./components/Resume/Resume";
+// import Resume from "./components/Resume/Resume";
 import Footer from "./components/Footer/Footer";
 import './App.css';
 
