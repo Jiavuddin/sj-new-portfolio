@@ -71,7 +71,7 @@ const experienceAndEdu = {
             logo: "Sathyabama.png",
             title: "Sathyabama Institute of science and technology",
             role: "Bachelor of Engineering",
-            duration: "Jun 2016 - May 2020",
+            // duration: "Jun 2016 - May 2020",
             location: "Chennai, Tamilnadu.",
             points: [
                 "Graduated with a Bachelor's in Electronics and Communication Engineering (ECE) with a commendable overall CGPA of 7.02.",
@@ -89,7 +89,7 @@ const experienceAndEdu = {
             logoDark: "Nxtwave dark.svg",
             title: "Nxtwave",
             role: "Full Stack Developer Course (MERN)",
-            duration: "Dec 2020 - Sep 2021",
+            // duration: "Dec 2020 - Sep 2021",
             location: "Online Course.",
             points: [
                 "Gained comprehensive skills in the MERN (MongoDB, Express.js, React, Node.js) stack, covering both frontend and backend development.",
@@ -109,7 +109,7 @@ const experienceAndEdu = {
             logoDark: "udemy dark.svg",
             title: "Udemy",
             role: "MongoDB - The Complete Developer's Guide 2023",
-            duration: "Mar 2023",
+            // duration: "Mar 2023",
             location: "Online Course.",
             points: [
                 "Achieved expertise in MongoDB, covering fundamental concepts and practical applications.",
