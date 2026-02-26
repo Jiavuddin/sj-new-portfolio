@@ -209,13 +209,13 @@ function App() {
                                 />
 
                                 {/* Renders Resume Page */}
-                                <Route
+                                {/* <Route
                                     exact
                                     path={routingPaths.resume}
                                     element={
                                         <Resume />
                                     }
-                                />
+                                /> */}
 
                                 {/* Handles Fallback Navigation */}
                                 <Route
